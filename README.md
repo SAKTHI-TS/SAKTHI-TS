@@ -1,10 +1,10 @@
 -<h2> 👋 Hi, I’m @SAKTHI-TS</h2>
-- <h2>👀 I’m interested in Full Stack Development<h2>
--<h2> 🌱 I’m currently learning  Front End<h2>
-- <h2>💞️ I’m looking to collaborate on Projects<h2>
-- <h2>📫 How to reach me ...<h2>
-- <h2>😄 Pronouns: ...<h2>
-- <h2>⚡ Fun fact: ...<h2>
+- <h2>👀 I’m interested in Full Stack Development</h2>
+-<h2> 🌱 I’m currently learning  Front End</h2>
+- <h2>💞️ I’m looking to collaborate on Projects</h2>
+- <h2>📫 How to reach me ...</h2>
+- <h2>😄 Pronouns: ...</h2>
+- <h2>⚡ Fun fact: ...</h2>
 
 <!---
 SAKTHI-TS/SAKTHI-TS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
